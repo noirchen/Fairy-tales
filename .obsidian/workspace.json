@@ -11,10 +11,12 @@
             "id": "e967afbea85e2005",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
             }
           }
         ]
@@ -183,6 +185,7 @@
   },
   "active": "e967afbea85e2005",
   "lastOpenFiles": [
+    "淡紫色童话-image/image31-1.png",
     "棕色童话.md",
     "棕色童话-image/image13.png",
     "桃色童话.md",
