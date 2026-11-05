@@ -4,22 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a50b89ff0c6478f3",
+        "id": "e7626fb55f29d2be",
         "type": "tabs",
         "children": [
           {
-            "id": "e967afbea85e2005",
+            "id": "f0df0324fec8c131",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "红色童话.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "icon": "lucide-file",
+              "title": "红色童话"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -40,7 +43,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -53,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "罗阇",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,28 +186,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "e967afbea85e2005",
+  "active": "f0df0324fec8c131",
   "lastOpenFiles": [
+    "橙色童话.md",
+    "蓝色童话.md",
+    "黄色童话.md",
+    "绿色童话.md",
+    "红色童话.md",
+    "银灰色童话.md",
     "重大误译清单.md",
+    "银灰色童话-image/image2-1.png",
+    "棕色童话.md",
+    "橄榄色童话.md",
+    "紫色童话.md",
+    "绯红色童话.md",
+    "淡紫色童话.md",
+    "桃色童话-image/image13.png",
+    "重大误译清单 2.md",
+    "重大误译清单 2.csv",
+    "LICENSE 2",
+    "桃色童话-image/image12 2.png",
+    "桃色童话-image/image13-1.png",
+    "桃色童话-image/image11.png",
+    "桃色童话-image/image8.png",
+    "桃色童话-image/image5.png",
+    "桃色童话-image/image3.png",
+    "桃色童话-image/image1.png",
+    "绯红色童话-image/image8.png",
     "重大误译清单.csv",
     "来源注记对照.md",
     "来源注记-英文原书清单.csv",
     "未命名.base",
-    "绿色童话-image/image15.png",
-    "银灰色童话-image/image59.png",
-    "银灰色童话-image/image49.png",
-    "蓝色童话-image/image26.png",
-    "绿色童话-image/image39.png",
-    "淡紫色童话-image/image31-1.png",
-    "棕色童话.md",
-    "棕色童话-image/image13.png",
     "桃色童话.md",
-    "橄榄色童话.md",
-    "棕色童话-image/image3.png",
-    "棕色童话-image/image49.png",
-    "棕色童话-image/image46.png",
-    "桃色童话-image/Fine-Grained Sediments - Deep-Water Processes and Facies (Geological Society special publication No. 15) (D. A. V. Stow, D. J. W. Piper) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "绯红色童话.md",
-    "红色童话.md"
+    "桃色童话-image/Fine-Grained Sediments - Deep-Water Processes and Facies (Geological Society special publication No. 15) (D. A. V. Stow, D. J. W. Piper) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
   ]
 }

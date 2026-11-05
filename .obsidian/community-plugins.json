@@ -1,5 +1,8 @@
 [
   "obsidian-text-format",
   "image-converter",
-  "regex-replace"
+  "regex-replace",
+  "toc-block",
+  "obsidian-linter",
+  "dynamic-outline"
 ]
